@@ -110,3 +110,4 @@ observability:
     phoenix:
       host: phoenix
       port: 6006
+      project_name: detective_manager_agent
